@@ -9,9 +9,10 @@
     "BIDSVersion": "1.8.0",
     "DatasetDOI": "doi:10.18112/openneuro.ds006556.v1.0.0",
     "Funding": [
-        "TODO",
-        "GRANT #1",
-        "GRANT #2"
+        "National Natural Science Foundation of China",
+        "Noncommunicable Chronic Diseases-National Science and Technology Major Project",
+        "Jiangsu Provincial key research and development program",
+        "General project of Nanjing Health Commission"
     ],
     "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
     "License": "CC0",
