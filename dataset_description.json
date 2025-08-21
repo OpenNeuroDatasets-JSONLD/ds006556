@@ -1,7 +1,8 @@
 {
     "Acknowledgements": "Children's hospital of Nanjing Medical University",
     "Authors": [
-        "Yang Xu"
+        "Yang Xu",
+        "Yaqi Zhang"
     ],
     "BIDSVersion": "1.8.0",
     "DatasetDOI": "doi:10.18112/openneuro.ds006556.v1.0.0",
