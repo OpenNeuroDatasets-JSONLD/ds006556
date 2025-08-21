@@ -2,7 +2,17 @@
     "Acknowledgements": "Children's hospital of Nanjing Medical University",
     "Authors": [
         "Yang Xu",
-        "Yaqi Zhang"
+        "Yaqi Zhang",
+        "Meijiao Zhu",
+        "Pengcheng Cue",
+        "Siyu Ma",
+        "Di Yu",
+        "Liang Hu",
+        "Yuxi Zhang",
+        "Wei Peng",
+        "Jirong Qi",
+        "Ming Yang",
+        "Xuming Mo"
     ],
     "BIDSVersion": "1.8.0",
     "DatasetDOI": "doi:10.18112/openneuro.ds006556.v1.0.0",
